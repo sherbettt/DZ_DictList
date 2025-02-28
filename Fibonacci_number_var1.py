@@ -8,7 +8,7 @@ def fib():
 for i, f in zip(range(11+1), fib()):
     print("{i:3}: {f:3}".format(i=i, f=f))
 
-```
+'''
   0:   0
   1:   1
   2:   1
@@ -21,4 +21,4 @@ for i, f in zip(range(11+1), fib()):
   9:  34
  10:  55
  11:  89
-```
+'''
