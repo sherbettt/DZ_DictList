@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.12
+
 fib1 = 1
 fib2 = 1
 

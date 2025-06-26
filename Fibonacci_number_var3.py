@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.12
+
 from math import sqrt
 
 fib_dict = {0: 0, 1: 1}
