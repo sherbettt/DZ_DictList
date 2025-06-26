@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.12
+
 def fibonacci_dict(n):
     # инициализация результата словаря
     result = {}
